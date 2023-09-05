@@ -1,0 +1,1 @@
+# predis-sentinel-use-password
